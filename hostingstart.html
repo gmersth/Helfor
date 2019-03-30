@@ -8,24 +8,11 @@
     <title>간단한 지도 표시하기</title>
     <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=0u7s1gv5cb"></script>
     <style>
-        table {
-            font-family: arial, sans-serif;
-            border-collapse: collapse;
-            width: 100%;
-        }
 
-        td, th {
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-
-        tr:nth-child(even) {
-            background-color: #dddddd;
-        }
     </style>
 </head>
 <body>
+<div id="map" style="width:50%;height:400px;"></div>
     <th>
         <script>
             var mapOptions = {
@@ -35,12 +22,5 @@
 
             var map = new naver.maps.Map('map', mapOptions);
         </script>
-    </th>
-<table>
-    <tr>
-        <td><div id="map" style="width:100%;height:400px;"></div></td>
-    </tr>
-</table>
-
 </body>
 </html>
