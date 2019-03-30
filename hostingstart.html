@@ -15,18 +15,15 @@
 <div id="map" style="width:50%;height:400px;"></div>
     <th>
         <script>
-            var mapOptions = {
+            var map = new naver.maps.Map('map', {
                 center: new naver.maps.LatLng(37.477464, 126.886113),
                 zoom: 10
-            };
+            });
 
             var marker = new naver.maps.Marker({
                 position: new naver.maps.LatLng(37.477464, 126.886113),
                 map: map
             });
-
-            var map = new naver.maps.Map('map', mapOptions);
-
         </script>
 </body>
 </html>
