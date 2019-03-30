@@ -81,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="272" column="41" lean-forward="true" selection-start-line="272" selection-start-column="41" selection-end-line="272" selection-end-column="41" />
+            <state relative-caret-position="116">
+              <caret line="305" column="44" selection-start-line="305" selection-start-column="44" selection-end-line="305" selection-end-column="44" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -93,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/demo/chart-area-demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
+            <state relative-caret-position="163">
+              <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -111,6 +111,7 @@
       <find>Example</find>
       <find>Overview</find>
       <find>Illustrations</find>
+      <find>chart</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -196,7 +197,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553956303070" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553956402609" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -292,12 +293,12 @@
       <updated>1553915109313</updated>
       <workItem from="1553915110827" duration="204000" />
       <workItem from="1553917753324" duration="254000" />
-      <workItem from="1553930251764" duration="6556000" />
+      <workItem from="1553930251764" duration="6655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7014000" />
+    <option name="totallyTimeSpent" value="7113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="798" extended-state="0" />
@@ -388,20 +389,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/demo/chart-area-demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="272" column="41" lean-forward="true" selection-start-line="272" selection-start-column="41" selection-end-line="272" selection-end-column="41" />
+        <state relative-caret-position="116">
+          <caret line="305" column="44" selection-start-line="305" selection-start-column="44" selection-end-line="305" selection-end-column="44" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/demo/chart-area-demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
         </state>
       </provider>
     </entry>
